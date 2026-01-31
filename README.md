@@ -7,4 +7,6 @@ Track: AI for Learning & Developer Productivity
 <br>
 Hackathon: AI for Bharat (Phase 1 – Idea Submission) 
 
-####  By Sudarshan and Navadeep ❤️
+####  By Sudarshan and Navadeep 
+
+made with ❤️
